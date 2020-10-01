@@ -16,7 +16,6 @@ interface CSVTransaction {
 
 class ImportTransactionsService {
   async execute(filePath: string): Promise<Transaction[]> {
-
     const categoriesRepository = getRepository(Category);
     const transactionRepository = getCustomRepository(TransactionRepository);
     const contactsReadStream = fs.createReadStream(filePath);
