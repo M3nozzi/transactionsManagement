@@ -1,6 +1,6 @@
 # Transaction Management Application
 
-It`s a transaction management application  with the purpose of putting into practice the technologies studied for the construction of the application backend.
+That's a transaction management application with the purpose of putting into practice the technologies studied for the construction of the application backend.
 
 ## Tecnologies:
 
