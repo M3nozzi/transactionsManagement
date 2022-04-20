@@ -2,7 +2,7 @@
 
 That's a transaction management application with the purpose of putting into practice the technologies studied for the construction of the application backend.
 
-## Tecnologies:
+## Technologies:
 
 - Typescript
 
